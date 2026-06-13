@@ -1,1 +1,0 @@
-Frida -l ac_bridge.js -l ac.js "AnimalCompany.exe"
